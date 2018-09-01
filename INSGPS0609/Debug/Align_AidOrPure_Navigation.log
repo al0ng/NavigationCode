@@ -1,0 +1,32 @@
+﻿生成启动时间为 2017/6/23 20:57:24。
+     1>项目“E:\WorkSpace\Visual Studio 2010\Projects\INSGPS0609\Align_AidOrPure_Navigation.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\Debug\Align_AidOrPure_Navigation.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt Align_Navigation.cpp Navigation.cpp
+         Navigation.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         Align_Navigation.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\Align_AidOrPure_Navigation.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\Align_AidOrPure_Navigation.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\WorkSpace\Visual Studio 2010\Projects\INSGPS0609\Debug\Align_AidOrPure_Navigation.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\Align_AidOrPure_Navigation.lib" /MACHINE:X86 .\Debug\Align_AidOrPure_Navigation.exe.embed.manifest.res
+         .\Debug\Align_Navigation.obj
+         .\Debug\Navigation.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\Align_AidOrPure_Navigation.exe.embed.manifest" /manifest .\Debug\Align_AidOrPure_Navigation.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Align_AidOrPure_Navigation.vcxproj -> E:\WorkSpace\Visual Studio 2010\Projects\INSGPS0609\.\Debug\Align_AidOrPure_Navigation.exe
+       BscMake:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o".\Debug\Align_AidOrPure_Navigation.bsc" .\Debug\Align_Navigation.sbr .\Debug\Navigation.sbr
+       FinalizeBuildStatus:
+         正在删除文件“.\Debug\Align_AidOrPure_Navigation.unsuccessfulbuild”。
+         正在对“.\Debug\Align_AidOrPure_Navigation.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\WorkSpace\Visual Studio 2010\Projects\INSGPS0609\Align_AidOrPure_Navigation.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.29
